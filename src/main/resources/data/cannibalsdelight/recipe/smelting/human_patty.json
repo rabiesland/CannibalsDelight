@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "category": "",
-  "group": "",
-  "show_notification": false,
+  "category": "food",
   "ingredient": "cannibalsdelight:minced_human",
   "result": {
     "id":"cannibalsdelight:human_patty"

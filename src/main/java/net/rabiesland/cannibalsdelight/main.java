@@ -1,4 +1,4 @@
-package windclan.cannibalsdelight;
+package net.rabiesland.cannibalsdelight;
 
 import net.fabricmc.api.ModInitializer;
 

@@ -1,8 +1,5 @@
 {
   "type": "minecraft:campfire_cooking",
-  "category": "",
-  "group": "",
-  "show_notification": false,
   "ingredient": "cannibalsdelight:raw_human_meat",
   "result": {
     "id":"cannibalsdelight:cooked_human_meat"

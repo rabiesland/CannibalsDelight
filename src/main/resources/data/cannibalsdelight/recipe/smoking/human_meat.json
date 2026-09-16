@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smoking",
-  "category": "",
-  "group": "",
-  "show_notification": false,
+  "category": "food",
   "ingredient": "cannibalsdelight:raw_human_meat",
   "result": {
     "id":"cannibalsdelight:cooked_human_meat"

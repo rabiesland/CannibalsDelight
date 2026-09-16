@@ -6,19 +6,19 @@
 	"description": "A Farmer's Delight addon that adds cannibalism.",
 	"authors": [
 		"AlignedCookie88",
-		"WindClan"
+		"gh0stzones"
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/project/cannibalsdelight",
-		"sources": "https://github.com/WindClan/CannibalsDelight",
-		"issues": "https://github.com/WindClan/CannibalsDelight/issues"
+		"sources": "https://github.com/rabiesland/CannibalsDelight",
+		"issues": "https://github.com/rabiesland/CannibalsDelight/issues"
 	},
 	"license": "GNU GPL v3.0",
 	"icon": "assets/cannibalsdelight/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"windclan.cannibalsdelight.main"
+			"net.rabiesland.cannibalsdelight.main"
 		]
 	},
 	"depends": {
